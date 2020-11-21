@@ -8,19 +8,7 @@ Welcome to the United States Geological Survey, or USGS for short! The USGS is r
 
 The USGS is interested in building a new set of tools that will allow them visualize their earthquake data. They collect a massive amount of data from all over the world each day, but they lack a meaningful way of displaying it. Their hope is that being able to visualize their data will allow them to better educate the public and other government organizations (and hopefully secure more funding..) on issues facing our planet.
 
-### Before You Begin
 
-1. Create a new repository for this project called `leaflet-challenge`. **Do not add this homework to an existing repository**.
-
-2. Clone the new repository to your computer.
-
-3. Inside your local git repository, create a directory for the Leaflet challenge. Use the folder names to correspond to the challenges: **Leaflet-Step-1** and **Leaflet-Step-2**.
-
-4. This homeworks utilizes both **html** and **Javascript** so be sure to add all the necessary files. These will be the main files to run for analysis.
-
-5. Push the above changes to GitHub or GitLab.
-
-## Your Task
 
 ### Level 1: Basic Visualization
 
@@ -38,15 +26,15 @@ Your first task is to visualize an earthquake data set.
 
 2. **Import & Visualize the Data**
 
-   Create a map using Leaflet that plots all of the earthquakes from your data set based on their longitude and latitude.
+   Create a map using Leaflet that plots all of the earthquakes from data set based on their longitude and latitude.
 
-   * Your data markers should reflect the magnitude of the earthquake in their size and color. Earthquakes with higher magnitudes should appear larger and darker in color.
+   *  data markers should reflect the magnitude of the earthquake in their size and color. Earthquakes with higher magnitudes should appear larger and darker in color.
 
    * Include popups that provide additional information about the earthquake when a marker is clicked.
 
    * Create a legend that will provide context for your map data.
 
-   * Your visualization should look something like the map above.
+   *  visualization should look something like the map above.
 
 - - -
 
@@ -54,10 +42,7 @@ Your first task is to visualize an earthquake data set.
 
 ![5-Advanced](Images/5-Advanced.png)
 
-The USGS wants you to plot a second data set on your map to illustrate the relationship between tectonic plates and seismic activity. You will need to pull in a second data set and visualize it along side your original set of data. Data on tectonic plates can be found at <https://github.com/fraxen/tectonicplates>.
-
-In this step we are going to..
-
+ plot a second data set on the map to illustrate the relationship between tectonic plates and seismic activity.
 * Plot a second data set on our map.
 
 * Add a number of base maps to choose from as well as separate out our two different data sets into overlays that can be turned on and off independently.
@@ -66,20 +51,3 @@ In this step we are going to..
 
 - - -
 
-### Assessment
-
-Your final product will be assessed on the following metrics:
-
-* Completion of assigned tasks
-
-* Visual appearance
-
-* Professionalism
-
-* Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file
-
-**Good luck!**
-
-### Copyright
-
-Trilogy Education Services © 2019. All Rights Reserved.
